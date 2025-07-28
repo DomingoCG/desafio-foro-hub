@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+MODIFY fecha DATE NOT NULL;
